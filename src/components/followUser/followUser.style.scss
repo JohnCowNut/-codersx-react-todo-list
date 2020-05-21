@@ -1,0 +1,9 @@
+.follow{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    & .f-left{
+        display: flex;
+        
+    }
+}
